@@ -13,7 +13,7 @@
 ) = {
   v(1em)
 
-  align(center, image("images/HUSTGreen.svg", width: 20em))
+  align(center, image("../images/HUSTGreen.svg", width: 20em))
 
   v(-1em)
 
